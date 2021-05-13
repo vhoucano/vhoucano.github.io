@@ -1,5 +1,4 @@
 # vhoucano.github.io
-# vhoucano.github.io
 
 - 👋 Olá, somos a @vhoucano
 - 👀 Somos uma startup delicinha que cria aplicações úteis pro seu dia a dia.
